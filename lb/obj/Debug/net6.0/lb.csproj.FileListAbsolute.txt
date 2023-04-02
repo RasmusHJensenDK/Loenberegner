@@ -1,0 +1,12 @@
+C:\wwwroot\lb\lb\bin\Debug\net6.0\lb.deps.json
+C:\wwwroot\lb\lb\bin\Debug\net6.0\lb.dll
+C:\wwwroot\lb\lb\bin\Debug\net6.0\lb.pdb
+C:\wwwroot\lb\lb\obj\Debug\net6.0\lb.csproj.AssemblyReference.cache
+C:\wwwroot\lb\lb\obj\Debug\net6.0\lb.GeneratedMSBuildEditorConfig.editorconfig
+C:\wwwroot\lb\lb\obj\Debug\net6.0\lb.AssemblyInfoInputs.cache
+C:\wwwroot\lb\lb\obj\Debug\net6.0\lb.AssemblyInfo.cs
+C:\wwwroot\lb\lb\obj\Debug\net6.0\lb.csproj.CoreCompileInputs.cache
+C:\wwwroot\lb\lb\obj\Debug\net6.0\lb.dll
+C:\wwwroot\lb\lb\obj\Debug\net6.0\refint\lb.dll
+C:\wwwroot\lb\lb\obj\Debug\net6.0\lb.pdb
+C:\wwwroot\lb\lb\obj\Debug\net6.0\ref\lb.dll
